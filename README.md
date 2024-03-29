@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=c-nunez)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=c-nunez&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <!--
 **c-nunez/c-nunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
